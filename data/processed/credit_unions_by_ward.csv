@@ -1,0 +1,3 @@
+CU_NUMBER,CU_NAME,SiteName,SiteTypeName,MainOffice,PhysicalAddressLine1,PhysicalAddressCity,PhysicalAddressStateCode,PhysicalAddressPostalCode,TOM_CODE,fom_type,community_chartered,latitude,longitude,ward
+1015,NORTH JERSEY,Newark,Branch Office,No,186 W Market St,Newark,NJ,07103,00  ,Community,True,40.741,-74.186207,Central
+1015,NORTH JERSEY,Newark Norman Road Branch,Branch Office,No,195 Norman Rd,Newark,NJ,07106-3309,00  ,Community,True,40.734084,-74.244013,West

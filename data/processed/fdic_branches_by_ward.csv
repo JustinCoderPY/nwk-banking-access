@@ -1,0 +1,52 @@
+ADDRESS,CITY,ID,LATITUDE,LONGITUDE,NAME,STALP,ZIP,ward
+744 Broad St,Newark,11553,40.73668000322613,-74.17083800498901,"Wells Fargo Bank, National Association",NJ,7102,Central
+54 Halsey St,Newark,14592,40.74058666399876,-74.17111895996545,Industrial Bank,NJ,7102,Central
+92 Ferry St,Newark,181954,40.73144801926401,-74.16070897791568,"Wells Fargo Bank, National Association",NJ,7105,East
+70 Adams St,Newark,181956,40.72994501829609,-74.15768403287869,"Bank of America, National Association",NJ,7105,East
+1 Springfield Ave,Newark,209537,40.736495014623046,-74.17813202095131,"Bank of America, National Association",NJ,7102,Central
+185 Ferry St,Newark,209671,40.728396000679766,-74.15708397243036,"PNC Bank, National Association",NJ,7105,East
+84 Wilson Ave,Newark,209674,40.72540898375465,-74.15346097860181,"PNC Bank, National Association",NJ,7105,East
+469 Central Ave,Newark,209675,40.7482060001922,-74.19254403290923,"PNC Bank, National Association",NJ,7107,West
+420 Bloomfield Ave,Newark,209769,40.769738019802475,-74.18321497467497,"Wells Fargo Bank, National Association",NJ,7107,North
+263 Heller Pkwy,Newark,209770,40.779189998646814,-74.1766390363577,"Wells Fargo Bank, National Association",NJ,7107,North
+380 Lyons Ave,Newark,209771,40.71313800323435,-74.22063103607886,"Wells Fargo Bank, National Association",NJ,7112,South
+176 South St,Newark,209774,40.72203799184507,-74.17072996225707,"Bank of America, National Association",NJ,7114,East
+1040 Broad St,Newark,209777,40.72732600882992,-74.1764729908558,"Wells Fargo Bank, National Association",NJ,7102,Central
+990 S Orange Ave,Newark,209778,40.7461629951122,-74.22918501972649,"Wells Fargo Bank, National Association",NJ,7106,West
+133 Jackson St,Newark,209806,40.72875399176439,-74.15858902696455,"Santander Bank, N.A.",NJ,7105,East
+466 Bloomfield Ave,Newark,209813,40.77138099855341,-74.18433203091115,"Santander Bank, N.A.",NJ,7107,North
+243 Chestnut St,Newark,209819,40.72296498842675,-74.16580601323666,"Santander Bank, N.A.",NJ,7105,East
+289 Ferry St,Newark,220045,40.72760001324471,-74.15017401527156,Valley National Bank,NJ,7105,East
+72 Mount Vernon Pl,Newark,226217,40.73627201408905,-74.24077702418006,Manufacturers and Traders Trust Company,NJ,7106,West
+60 Park Pl,Newark,228910,40.73835701250394,-74.16913496990182,Manufacturers and Traders Trust Company,NJ,7102,Central
+164 Bloomfield Ave,Newark,237422,40.759091996941294,-74.1760150036663,"Wells Fargo Bank, National Association",NJ,7104,North
+356 Springfield Ave,Newark,237425,40.733521995476224,-74.19509003599877,"TD Bank, National Association",NJ,7103,Central
+829 Sanford Ave,Newark,278509,40.73395001736188,-74.23820000804876,"Citizens Bank, National Association",NJ,7106,West
+1039 S Orange Ave,Newark,278738,40.746468012568755,-74.23156799479926,Bogota Savings Bank,NJ,7106,West
+37 Wilson Ave,Newark,278949,40.72698800858436,-74.15428299184623,"Flagstar Bank, National Association",NJ,7105,East
+167 Bloomfield Ave,Newark,280297,40.759232980552696,-74.17532198791174,Valley National Bank,NJ,7104,North
+76 Pulaski St,Newark,290510,40.72349099476054,-74.15790598567477,Crown Bank,NJ,7105,East
+275 Chestnut St,Newark,361921,40.722412998193136,-74.1644240050411,"Citizens Bank, National Association",NJ,7105,East
+174 Ferry St,Newark,362408,40.729019991461655,-74.15737298045185,Crown Bank,NJ,7105,East
+744 Broad St,Newark,364612,40.73668000322613,-74.17083800498901,"JPMorgan Chase Bank, National Association",NJ,7102,Central
+36 Pacific St,Newark,39829,40.72696712522538,-74.16600560668547,"Flagstar Bank, National Association",NJ,7105,East
+210 Ferry St,Newark,447859,40.72827701956419,-74.15557296674493,Lusitania Savings Bank,NJ,7105,East
+721 Broad St,Newark,456162,40.737981000327494,-74.17176403765183,"Citibank, National Association",NJ,7102,Central
+105 Mulberry St,Newark,466467,40.735662985004325,-74.16929104093894,"TD Bank, National Association",NJ,7102,East
+570 Broad St,Newark,466923,40.74202899855655,-74.16856198300074,"JPMorgan Chase Bank, National Association",NJ,7102,Central
+537 Market St,Newark,494446,40.732105998663286,-74.155039961522,"Capital One, National Association",NJ,7105,East
+487 Springfield Ave,Newark,494448,40.73183400590523,-74.20180301843295,"Capital One, National Association",NJ,7103,Central
+1140 Raymond Blvd,Newark,5079,40.73693549128589,-74.16919796437199,"PNC Bank, National Association",NJ,7102,Central
+115 Ferry St # 119,Newark,512301,40.73010201134258,-74.16059699568925,Provident Bank,NJ,7105,East
+255 Lafayette St,Newark,514549,40.72852499816963,-74.16080503452606,"Citizens Bank, National Association",NJ,7105,East
+217 Chestnut St,Newark,552318,40.723524019459035,-74.1667740392344,ConnectOne Bank,NJ,7105,East
+500 Bloomfield Ave,Newark,55350,40.77232098708504,-74.18489797701356,Popular Bank,NJ,7107,North
+107 Pulaski St,Newark,56137,40.7223689932015,-74.1590549769621,Lusitania Savings Bank,NJ,7105,East
+151 Ferry St,Newark,590594,40.729247979228035,-74.15898599389894,"JPMorgan Chase Bank, National Association",NJ,7105,East
+190 Wilson Ave,Newark,591429,40.72198300656024,-74.15030804190333,Provident Bank,NJ,7105,East
+418-428 Market St,Newark,591753,40.73295198415079,-74.16145002197541,"TD Bank, National Association",NJ,7105,East
+905 Broad St,Newark,610423,40.73260400944045,-74.1744360207461,Columbia Bank,NJ,7102,Central
+269 Ferry St,Newark,625358,40.728430995125535,-74.15184201400348,BCB Community Bank,NJ,7105,East
+260 Chestnut St,Newark,641493,40.723158987575744,-74.16454403389457,Columbia Bank,NJ,7105,East
+550 Frelinghuysen Ave,Newark,652281,40.702162990673514,-74.19528701072339,Industrial Bank,NJ,7114,South
+110 Edison Place,Newark,673696,40.733259013264,-74.167676015835,Provident Bank,NJ,7102,East

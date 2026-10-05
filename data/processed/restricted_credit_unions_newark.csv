@@ -1,0 +1,12 @@
+CU_NUMBER,CU_NAME,SiteName,SiteTypeName,MainOffice,PhysicalAddressLine1,PhysicalAddressCity,PhysicalAddressStateCode,PhysicalAddressPostalCode,TOM_CODE,fom_type,community_chartered,latitude,longitude,ward
+4611,NEWARK POLICE,Main,Corporate Office,Yes,1 Lincoln AVe,Newark,NJ,07104,36  ,Multiple Common Bond (TOM 36),False,40.7656177,-74.1658877,North
+4894,FEDERAL EMPLOYEES NEWARK,FEDERAL EMPLOYEES NEWARK FEDERAL CREDIT UNION,Corporate Office,Yes,970 Broad St,Newark,NJ,07102-2534,06  ,Occupational - Federal/State/Local Government,False,40.730097,-74.1741915,Central
+7184,LIBERTY SAVINGS,Iron Bound,Branch Office,No,106 Fleming Ave,Newark,NJ,07105,34  ,Multiple Common Bond (TOM 34),False,40.732274,-74.14291,East
+7346,SELFRELIANCE,Newark Branch,Branch Office,No,734 Sanford Ave,Newark,NJ,07106,98  ,Multiple Common Bond - Other,False,40.7369089,-74.2362158,West
+8993,PUBLIC SERVICE PLAZA,PUBLIC SERVICE PLAZA FEDERAL CREDIT UNION,Corporate Office,Yes,80 Park Plz,Newark,NJ,07102,53  ,Multiple Common Bond (TOM 53),False,40.737485,-74.1685971,Central
+10803,ISRAEL MEMORIAL A M E,Israel Memorial AME,Corporate Office,Yes,54 Lincoln St,Newark,NJ,07103,01  ,Associational - Faith-Based,False,40.733186,-74.182446,Central
+18710,GARDEN SAVINGS,Regular Branch,Branch Office,No,120 Ferry St,Newark,NJ,07105,53  ,Multiple Common Bond (TOM 53),False,40.7302717,-74.1602379,East
+20773,LOCAL 1233,19 Fenwick St.,Corporate Office,Yes,19 Fenwick St,Newark,NJ,07114,03  ,Associational - Other,False,40.7021491,-74.1936071,South
+23957,AMERICAN AIRLINES,AAFCU - EWR,Branch Office,No,614 Frelinghuysen Ave Fl 1,Newark,NJ,07114,22  ,Occupational - Service Industry (TOM 22),False,40.699941,-74.1960837,South
+24167,NEW COMMUNITY,New community FCU,Corporate Office,Yes,274 S Orange Ave,Newark,NJ,07103-2419,98  ,Multiple Common Bond - Other,False,40.7391412,-74.1958593,West
+66159,NEWARK POST OFFICE EMPLOYEES,NEWARK POST OFFICE,Corporate Office,Yes,2 Federal Sq,NEWARK,NJ,07102-3515,99  ,Unknown / State-Chartered (TOM code not federally reported),False,40.7295128,-74.1732169,Central

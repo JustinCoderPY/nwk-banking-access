@@ -1,0 +1,5 @@
+service_id,date,exception_type
+HBLR-613-Saturday,20260926,2
+HBLR-613-SaturdayE,20260926,1
+HBLR-613-Sunday,20260927,2
+HBLR-613-SundayE,20260927,1

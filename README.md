@@ -8,7 +8,6 @@ A Python + SQL + geospatial pipeline that combines FDIC bank branches, NCUA cred
 
 **[Open the interactive dashboard on Tableau Public](https://public.tableau.com/app/profile/justin.argueta/viz/nwk_banking_dash/Dashboard1)**
 
-![Newark banking access dashboard](docs/dashboard.png)
 
 Each panel is fed by one SQL file in [`sql/`](sql/), which in turn depends on the Python script(s) that built the underlying table. `python run_queries.py` re-runs every query and checks it against the export Tableau reads.
 
